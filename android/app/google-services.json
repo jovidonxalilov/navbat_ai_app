@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726128518998",
+    "project_id": "navbat-ai",
+    "storage_bucket": "navbat-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726128518998:android:38a896915b049c3707d8f7",
+        "android_client_info": {
+          "package_name": "com.dasturchimobile.navbat_ai_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGxEfjrbCQxeXnE1HBbJWiaBAi5a-Bo64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
